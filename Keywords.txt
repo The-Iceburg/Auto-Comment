@@ -1,1 +1,11 @@
+{
+    "print": "Prints {blank}",
+    "if": "Indented code executes if condition is True",
+    "elif": "Otherwise, execute this code if this condition is True",
+    "else": "If none of the prior conditions are True, execute this code",
+    "pass": "Acts as a placeholder for future code",
+    "continue": "Skips to the next iteration of the loop",
+    "break": "Ends the loop prematurely"
+
+}
 
